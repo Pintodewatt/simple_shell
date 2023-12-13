@@ -1,7 +1,7 @@
 #include "header.h"
 
 /**
- * change_dir - Changes directory
+ * change_dir - Change directory
  * @cmd: Parsed command
  * @st: Status of last command executed
  * Return: 0 on success 1 if failed (For OLDPWD Always 0 incase of no OLDPWD)
